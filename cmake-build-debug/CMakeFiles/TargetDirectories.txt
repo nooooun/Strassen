@@ -1,0 +1,3 @@
+D:/CLionProjects/Strassen/cmake-build-debug/CMakeFiles/Strassen.dir
+D:/CLionProjects/Strassen/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/Strassen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
